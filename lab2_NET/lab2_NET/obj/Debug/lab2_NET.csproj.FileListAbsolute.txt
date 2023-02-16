@@ -1,0 +1,8 @@
+C:\Users\kseno\source\repos\lab2_NET\lab2_NET\bin\Debug\lab2_NET.exe.config
+C:\Users\kseno\source\repos\lab2_NET\lab2_NET\bin\Debug\lab2_NET.exe
+C:\Users\kseno\source\repos\lab2_NET\lab2_NET\bin\Debug\lab2_NET.pdb
+C:\Users\kseno\source\repos\lab2_NET\lab2_NET\obj\Debug\lab2_NET.csproj.AssemblyReference.cache
+C:\Users\kseno\source\repos\lab2_NET\lab2_NET\obj\Debug\lab2_NET.csproj.SuggestedBindingRedirects.cache
+C:\Users\kseno\source\repos\lab2_NET\lab2_NET\obj\Debug\lab2_NET.csproj.CoreCompileInputs.cache
+C:\Users\kseno\source\repos\lab2_NET\lab2_NET\obj\Debug\lab2_NET.exe
+C:\Users\kseno\source\repos\lab2_NET\lab2_NET\obj\Debug\lab2_NET.pdb
